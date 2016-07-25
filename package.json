@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Validate Domain Names as outlined by RFC 2181",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "tape": "^4.6.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node test.js"
   },
